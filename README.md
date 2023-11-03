@@ -11,13 +11,13 @@ Coming soon.
 
 ## Citation
 If you use MCPNS, please consider citing:
-
-@article{vanduong2023mcpns,
-  author={Vinh Van Duong and Thuc Nguyen Huu and Jonghoon Yim and Byeungwoo Jeon},
-  title     = {MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding},
-  journal   = {arXiv preprint arXiv:2310.08006},
-  year      = {2023},
-}
-
+```Citation
+  @article{vanduong2023mcpns,
+    author    = {Vinh Van Duong and Thuc Nguyen Huu and Jonghoon Yim and Byeungwoo Jeon},
+    title     = {MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding},
+    journal   = {arXiv preprint arXiv:2310.08006},
+    year      = {2023},
+    }
+```
 ## Contact
-if you have any questions, please contact me through email at duongvinh@skku.edu
+If you have any questions, please contact me through email at duongvinh@skku.edu
