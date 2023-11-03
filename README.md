@@ -11,6 +11,7 @@ Coming soon.
 
 ## Citation
 If you use MCPNS, please consider citing:
+
 @article{vanduong2023mcpns,
   author={Vinh Van Duong and Thuc Nguyen Huu and Jonghoon Yim and Byeungwoo Jeon},
   title     = {MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding},
