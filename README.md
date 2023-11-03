@@ -1,7 +1,7 @@
 # MCPNS
 This repository contains an official implementation of our paper "MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding"
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)] ([https://arxiv.org/abs/2310.08006])
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2310.08006)
 
 ## News
 [2023-11-02]: We released the executable file of our MCPNS method for fast motion estimation in plenoptic 2.0 video coding, which is implemented on top of VVC reference software VTM-11.0. For details of settings, please refer to the "readme.txt" file.
